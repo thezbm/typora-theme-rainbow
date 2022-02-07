@@ -2,7 +2,7 @@
 
 English | [简体中文](README_zh.md)
 
-[Click]() to visit on *Github*.
+[Click](https://github.com/garyzhang2002/typora-theme-rainbow) to visit on *Github*.
 
 ## About Rainbow
 
