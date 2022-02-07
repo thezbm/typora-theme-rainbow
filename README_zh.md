@@ -2,7 +2,7 @@
 
 [English](README.md) | 简体中文
 
-[点击此处]()在*GitHub*上访问。
+[点击此处](https://github.com/garyzhang2002/typora-theme-rainbow)在*GitHub*上访问。
 
 ## 关于Rainbow
 
