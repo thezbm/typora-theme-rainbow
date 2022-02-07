@@ -1,6 +1,6 @@
 # typora-theme-pie
 
-English | [简体中文](./README_zh.md)
+English | [简体中文](README_zh.md)
 
 [Click]() to visit on *Github*.
 
