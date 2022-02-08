@@ -34,10 +34,10 @@ Issues are very welcome on *GitHub*.
 
 ## Thumbnails
 
-![pic1](pic1.png)
+![pic1](media/pic1.png)
 
-![pic2](pic2.png)
+![pic2](media/pic2.png)
 
-![pic3](pic3.png)
+![pic3](media/pic3.png)
 
-![pic4](pic4.png)
+![pic4](media/pic4.png)
