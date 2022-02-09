@@ -1,4 +1,4 @@
-# typora-theme-pie
+# typora-theme-rainbow
 
 English | [简体中文](README_zh.md)
 
