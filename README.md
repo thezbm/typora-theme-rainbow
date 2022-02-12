@@ -1,6 +1,6 @@
 # typora-theme-rainbow
 
-English | [简体中文](README_zh.md)
+English | [简体中文](./README_zh.md)
 
 [Click](https://github.com/garyzhang2002/typora-theme-rainbow) to visit on *Github*.
 
@@ -15,6 +15,10 @@ Inspired by themes:
 + [Pie](https://github.com/kevinzhao2233/typora-theme-pie)
 
 Issues are very welcome on *GitHub*.
+
+## Donated
+
+![pic5](./media/pic5.png)
 
 ## Features
 
@@ -34,10 +38,10 @@ Issues are very welcome on *GitHub*.
 
 ## Thumbnails
 
-![pic1](media/pic1.png)
+![pic1](./media/pic1.png)
 
-![pic2](media/pic2.png)
+![pic2](./media/pic2.png)
 
-![pic3](media/pic3.png)
+![pic3](./media/pic3.png)
 
-![pic4](media/pic4.png)
+![pic4](./media/pic4.png)
