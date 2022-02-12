@@ -20,6 +20,8 @@ Issues are very welcome on *GitHub*.
 
 ![pic5](./media/pic5.png)
 
+Every little helps.
+
 ## Features
 
 + Well-designed color scheme
