@@ -16,7 +16,7 @@ Inspired by themes:
 
 Issues are very welcome on *GitHub*.
 
-## Donated
+## Donate
 
 ![pic5](./media/pic5.png)
 
