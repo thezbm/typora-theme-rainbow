@@ -116,7 +116,7 @@ checkboxes settings
 	width: 0;
 	height: 0;
 }
-#write .task-list-item input[type = "checkbox"]::before, input[type = "checkbox"]:checked::before {
+#write .task-list-item input[type = "checkbox"]::before, #write input[type = "checkbox"]:checked::before {
 	content: "";
 	display: inline-block;
 	vertical-align: middle;
@@ -242,14 +242,14 @@ tooltips settings
 /*
 selected texts in code blocks settings
 */
-#write .CodeMirror-selected, .CodeMirror-selectedtext, .in-text-selection {
+#write .CodeMirror-selected, #write .CodeMirror-selectedtext, #write .in-text-selection {
 	background-color: var(--selection-bg-color) !important;
 }
 
 /*
 diagrams settings
 */
-#write pre[lang=’sequence’], pre[lang=’flow’], pre[lang=’mermaid’] {
+#write pre[lang=’sequence’], #write pre[lang=’flow’], #write pre[lang=’mermaid’] {
 	background-color: var(--code-bg-color);
 	border-radius: 0.4rem;
 	box-shadow: var(--block-shadow);
