@@ -2,7 +2,7 @@
 
 English | [简体中文](./README_zh.md)
 
-[Click](https://github.com/garyzhang2002/typora-theme-rainbow) to visit on *Github*.
+[Click](https://github.com/thezbm/typora-theme-rainbow) to visit on *Github*.
 
 ## About Rainbow
 
@@ -33,7 +33,7 @@ Every little helps.
 
 ## How to install
 
-1. Download the **Rainbow.zip** from the [Releases](https://github.com/garyzhang2002/typora-theme-rainbow/releases) page and unzip it.
+1. Download the **Rainbow.zip** from the [Releases](https://github.com/thezbm/typora-theme-rainbow/releases) page and unzip it.
 2. Open Theme Folder in *Typora* from `Preference Panel` → `Appearance` section.
 1. Copy **rainbow.css** and the **rainbow** folder into the newly opened folder.
 2. Restart *Typora*, then select it from `Themes` menu.

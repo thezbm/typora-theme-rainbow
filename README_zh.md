@@ -2,7 +2,7 @@
 
 [English](./README.md) | 简体中文
 
-[点击此处](https://github.com/garyzhang2002/typora-theme-rainbow)在*GitHub*上访问。
+[点击此处](https://github.com/thezbm/typora-theme-rainbow)在*GitHub*上访问。
 
 ## 关于Rainbow
 
@@ -33,7 +33,7 @@
 
 ## 如何安装
 
-1. Download the **Rainbow.zip** from the [Releases](https://github.com/garyzhang2002/typora-theme-rainbow/releases) page and unzip it.
+1. Download the **Rainbow.zip** from the [Releases](https://github.com/thezbm/typora-theme-rainbow/releases) page and unzip it.
 2. Open Theme Folder in *Typora* from `Preference Panel` → `Appearance` section.
 3. Copy **rainbow.css** and the **rainbow** folder into the newly opened folder.
 4. Restart *Typora*, then select it from `Themes` menu.
